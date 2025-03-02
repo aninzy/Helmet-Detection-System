@@ -1,4 +1,4 @@
-<h1 align="center"> Helmett Detection System Using ESP32 Camera and Raspberry PI </h1>
+<h1 align="center"> Helmet Detection System Using ESP32 Camera and Raspberry PI </h1>
 
 ## Technologies 🔧
 
